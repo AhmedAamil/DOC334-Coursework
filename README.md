@@ -48,5 +48,5 @@ the console. GUI base program will result ZERO marks. You can decide how the pro
 task.
 
 
-© Copyright Informatics Institute of Technology 2021
+Copyright © 2022 Informatics Institute of Technology. All Rights Reserved
 
